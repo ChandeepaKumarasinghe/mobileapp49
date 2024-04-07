@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "966188227244",
+    "project_id": "timothy26-ed3fc",
+    "storage_bucket": "timothy26-ed3fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966188227244:android:7eda43d34a74ad37dd1d09",
+        "android_client_info": {
+          "package_name": "com.example.ck"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXAH048TJrGLT5saz1C_hd3iVJZKvkdfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
